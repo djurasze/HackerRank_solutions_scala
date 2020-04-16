@@ -15,4 +15,5 @@ Solutions are coded using Scala
 
 |  Subdomain  |                                                Challenge                                               | Points |                                                                         Solution                                                                           |
 |:-----------:|:------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Introduction | [List Replication](https://www.hackerrank.com/challenges/fp-list-replication/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/introduction/list_replication/Solution.scala)                        |
 

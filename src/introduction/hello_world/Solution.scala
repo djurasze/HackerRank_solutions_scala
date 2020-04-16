@@ -1,6 +1,6 @@
 package introduction.hello_world
 
-object Solution extends App {
+object Solution {
 
   def f(): Unit = println("Hello World")
 
@@ -10,11 +10,15 @@ object Solution extends App {
 //    }
 //  }
 
-  def f(n: Int): Unit = LazyList.fill(n)("Hello World") foreach {println}
+  def f(n: Int): Unit = LazyList.fill(n)("Hello World").foreach(println)
 
-  f()
-  f(10)
+  def sum(numbers: Iterator[String]): Int = numbers.map(_.toInt).sum
+
+  def main (args: Array[String] ): Unit = {
+    f(10)
+    println(sum(io.Source.stdin.getLines().take(2)))
+  }
+
 }
-
 
 
