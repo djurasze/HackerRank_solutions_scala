@@ -22,6 +22,7 @@ Solutions are coded using Scala
 | Introduction | [Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/introduction/sum_of_odd_elements/Solution.scala)                        |
 | Introduction | [List length](https://www.hackerrank.com/challenges/fp-list-length/problem?h_r=next-challenge&h_v=zen)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/introduction/list_length/Solution.scala)                        |
 | Introduction | [Update List](https://www.hackerrank.com/challenges/fp-update-list/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/introduction/update_list/Solution.scala)                        |
+| Introduction | [Evaluating e^x](https://www.hackerrank.com/challenges/eval-ex/problem?h_r=next-challenge&h_v=zen)                                             |   20   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/introduction/evaluating_ex/Solution.scala)                        |
 
 # Algorithms
 
