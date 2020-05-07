@@ -24,6 +24,7 @@ Solutions are coded using Scala
 | Introduction | [Update List](https://www.hackerrank.com/challenges/fp-update-list/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/introduction/update_list/Solution.scala)                        |
 | Introduction | [Evaluating e^x](https://www.hackerrank.com/challenges/eval-ex/problem?h_r=next-challenge&h_v=zen)                                             |   20   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/introduction/evaluating_ex/Solution.scala)                        |
 | Introduction | [Area Under Curves and Volume of Revolving a Curve](https://www.hackerrank.com/challenges/area-under-curves-and-volume-of-revolving-a-curv/problem)                                             |   30   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/introduction/area_under_curves_and_volume_of_revolving_a_curve/Solution.scala)                        |
+| Introduction | [Functions or Not](https://www.hackerrank.com/challenges/functions-or-not/problem)                                             |   5   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/introduction/functions_or_not/Solution.scala)                        |
 
 # Algorithms
 
