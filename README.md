@@ -27,6 +27,7 @@ Solutions are coded using Scala
 | Introduction | [Functions or Not](https://www.hackerrank.com/challenges/functions-or-not/problem)                                             |   5   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/introduction/functions_or_not/Solution.scala)                        |
 | Introduction | [Compute the Perimeter of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon/problem)                                             |   5   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/introduction/compute_the_perimeter_of_a_polygon/Solution.scala)                        |
 | Introduction | [Compute the Area of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem)                                             |   5   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/introduction/compute_the_area_of_a_polygon/Solution.scala)                        |
+| Recursion | [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)                                             |   2   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/computing_the_gcd/Solution.scala)                        |
 
 # Algorithms
 
