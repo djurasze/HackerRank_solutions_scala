@@ -29,6 +29,7 @@ Solutions are coded using Scala
 | Introduction | [Compute the Area of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem)                                             |   5   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/introduction/compute_the_area_of_a_polygon/Solution.scala)                        |
 | Recursion | [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)                                             |   2   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/computing_the_gcd/Solution.scala)                        |
 | Recursion | [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)                                             |   2   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/fibonacci_numbers/Solution.scala)                        |
+| Recursion | [Pascal's Triangle](https://www.hackerrank.com/challenges/pascals-triangle/problem)                                             |   2   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/pascals_triangle/Solution.scala)                        |
 
 # Algorithms
 
