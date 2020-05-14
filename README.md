@@ -30,6 +30,7 @@ Solutions are coded using Scala
 | Recursion | [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)                                             |   2   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/computing_the_gcd/Solution.scala)                        |
 | Recursion | [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)                                             |   2   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/fibonacci_numbers/Solution.scala)                        |
 | Recursion | [Pascal's Triangle](https://www.hackerrank.com/challenges/pascals-triangle/problem)                                             |   2   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/pascals_triangle/Solution.scala)                        |
+| Recursion | [String Mingling](https://www.hackerrank.com/challenges/string-mingling/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/string_mingling/Solution.scala)                        |
 
 # Algorithms
 
