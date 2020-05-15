@@ -32,6 +32,7 @@ Solutions are coded using Scala
 | Recursion | [Pascal's Triangle](https://www.hackerrank.com/challenges/pascals-triangle/problem)                                             |   2   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/pascals_triangle/Solution.scala)                        |
 | Recursion | [String Mingling](https://www.hackerrank.com/challenges/string-mingling/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/string_mingling/Solution.scala)                        |
 | Recursion | [Prefix Compression](https://www.hackerrank.com/challenges/prefix-compression/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/prefix_compression/Solution.scala)                        |
+| Recursion | [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem?h_r=next-challenge&h_v=zen)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/string_reductions/Solution.scala)                        |
 
 # Algorithms
 
