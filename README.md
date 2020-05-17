@@ -33,6 +33,7 @@ Solutions are coded using Scala
 | Recursion | [String Mingling](https://www.hackerrank.com/challenges/string-mingling/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/string_mingling/Solution.scala)                        |
 | Recursion | [Prefix Compression](https://www.hackerrank.com/challenges/prefix-compression/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/prefix_compression/Solution.scala)                        |
 | Recursion | [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem?h_r=next-challenge&h_v=zen)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/string_reductions/Solution.scala)                        |
+| Recursion | [Super-Queens on a Chessboard](https://www.hackerrank.com/challenges/super-queens-on-a-chessboard/problem)                                             |   20   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/super_queens_on_a_chessboard/Solution.scala)                        |
 
 # Algorithms
 
