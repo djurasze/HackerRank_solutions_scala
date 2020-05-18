@@ -34,6 +34,7 @@ Solutions are coded using Scala
 | Recursion | [Prefix Compression](https://www.hackerrank.com/challenges/prefix-compression/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/prefix_compression/Solution.scala)                        |
 | Recursion | [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem?h_r=next-challenge&h_v=zen)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/string_reductions/Solution.scala)                        |
 | Recursion | [Super-Queens on a Chessboard](https://www.hackerrank.com/challenges/super-queens-on-a-chessboard/problem)                                             |   20   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/super_queens_on_a_chessboard/Solution.scala)                        |
+| Recursion | [The Sums of Powers](https://www.hackerrank.com/challenges/functional-programming-the-sums-of-powers/problem)                                             |   20   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/the_sums_of_powers/Solution.scala)                        |
 
 # Algorithms
 
