@@ -36,6 +36,7 @@ Solutions are coded using Scala
 | Recursion | [Super-Queens on a Chessboard](https://www.hackerrank.com/challenges/super-queens-on-a-chessboard/problem)                                             |   20   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/super_queens_on_a_chessboard/Solution.scala)                        |
 | Recursion | [The Sums of Powers](https://www.hackerrank.com/challenges/functional-programming-the-sums-of-powers/problem)                                             |   20   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/the_sums_of_powers/Solution.scala)                        |
 | Recursion | [String Compression](https://www.hackerrank.com/challenges/string-compression/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/string_compression/Solution.scala)                        |
+| Recursion | [String-o-Permute](https://www.hackerrank.com/challenges/string-o-permute/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/string_o_permute/Solution.scala)                        |
 
 # Algorithms
 
