@@ -38,6 +38,7 @@ Solutions are coded using Scala
 | Recursion | [String Compression](https://www.hackerrank.com/challenges/string-compression/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/string_compression/Solution.scala)                        |
 | Recursion | [String-o-Permute](https://www.hackerrank.com/challenges/string-o-permute/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/string_o_permute/Solution.scala)                        |
 | Recursion | [Sequence full of colors](https://www.hackerrank.com/challenges/sequence-full-of-colors/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/sequence_full_of_colors/Solution.scala)                        |
+| Recursion | [Filter Elements](https://www.hackerrank.com/challenges/filter-elements/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/filter_elements/Solution.scala)                        |
 
 # Algorithms
 
