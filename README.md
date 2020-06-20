@@ -40,6 +40,7 @@ Solutions are coded using Scala
 | Recursion | [Sequence full of colors](https://www.hackerrank.com/challenges/sequence-full-of-colors/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/sequence_full_of_colors/Solution.scala)                        |
 | Recursion | [Filter Elements](https://www.hackerrank.com/challenges/filter-elements/problem)                                             |   10   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/filter_elements/Solution.scala)                        |
 | Recursion | [Super Digit](https://www.hackerrank.com/challenges/super-digit/problem)                                             |   20   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/recursion/super_digit/Solution.scala)                        |
+| Memoization and DP | [Pentagonal Numbers](https://www.hackerrank.com/challenges/pentagonal-numbers/problem)                                             |   30   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/memoization_and_dp/pentagonal_numbers/Solution.scala)                        |
 
 # Algorithms
 
