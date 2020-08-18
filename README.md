@@ -43,6 +43,7 @@ Solutions are coded using Scala
 | Memoization and DP | [Pentagonal Numbers](https://www.hackerrank.com/challenges/pentagonal-numbers/problem)                                             |   30   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/memoization_and_dp/pentagonal_numbers/Solution.scala)                        |
 | Memoization and DP | [Different Ways](https://www.hackerrank.com/challenges/different-ways-fp/problem)                                             |   30   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/memoization_and_dp/different_ways/Solution.scala)                        |
 | Ad Hoc | [Huge GCD](https://www.hackerrank.com/challenges/huge-gcd-fp/problem)                                             |   30   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/ad_hoc/huge_gcd/Solution.scala)                        |
+| Functional Structures | [Lists and GCD](https://www.hackerrank.com/challenges/lists-and-gcd/problem)                                             |   20   | [Solution.scala](https://github.com/djurasze/HackerRank_solutions_scala/blob/master/src/functional_structures/lists_and_gcd/Solution.scala)                        |
 
 # Algorithms
 
